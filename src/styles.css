@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Bradley Hand ITC';
+    src: url("assets/Fonts/bradhitc.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+.fontBradley{
+  font-family:'Bradley Hand ITC';
+  font-size:16px;
+  color:#001135; 
+  }
